@@ -20,3 +20,4 @@ app.use('/api/fruits', fruitRoutes);
 app.use('/api/auth', userRoutes);
 
 module.exports = app;
+//test
