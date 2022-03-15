@@ -18,6 +18,5 @@ app.use((req, res, next) => {
 
 app.use('/api/fruits', fruitRoutes);
 app.use('/api/auth', userRoutes);
-console.log('run');
+
 module.exports = app;
-//test
